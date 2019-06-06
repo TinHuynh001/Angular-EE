@@ -3,9 +3,9 @@ import { Component } from '@angular/core';
 import { youtubers } from '../data';
 
 @Component({
-  selector: 'app-product-list',
-  templateUrl: './product-list.component.html',
-  styleUrls: ['./product-list.component.css']
+  selector: 'app-youtubers-list',
+  templateUrl: './youtubers-list.component.html',
+  styleUrls: ['./youtubers-list.component.css']
 })
 export class ProductListComponent {
   items = youtubers;
