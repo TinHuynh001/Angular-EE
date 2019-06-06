@@ -7,7 +7,7 @@ import { youtubers } from '../data';
   templateUrl: './youtubers-list.component.html',
   styleUrls: ['./youtubers-list.component.css']
 })
-export class ProductListComponent {
+export class YoutuberListComponent {
   items = youtubers;
 
   share() {
