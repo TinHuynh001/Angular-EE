@@ -1,9 +1,9 @@
 export const youtubers = [
   {
-    name: 'Phone XL',
+    name: 'InternetHistorian',
     price: 799,
-    description: 'A large phone with one of the best screens',
-    link: ""
+    description: 'Researcher of Memes',
+    link: 'https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw'
   },
   {
     name: 'Phone Mini',

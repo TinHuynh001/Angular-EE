@@ -3,9 +3,11 @@ import { BrowserModule } from '@angular/platform-browser';
 import { RouterModule } from '@angular/router';
 import { ReactiveFormsModule } from '@angular/forms';
 
+
+//ALL YOUR COMPONENTS IMPORTED FROM HERE
 import { AppComponent } from './app.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
-import { ProductListComponent } from './youtubers-list/product-list.component';
+import { ProductListComponent } from './youtubers-list/youtubers-list.component';
 
 @NgModule({
   imports: [
